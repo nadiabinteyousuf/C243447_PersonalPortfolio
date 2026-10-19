@@ -110,7 +110,7 @@ The contact section allows visitors to find my professional profiles and contact
 ## Project Structure
 
 ```text
-C243447_PersonalPortfolio/
+portfolio/
 │
 ├── index.html
 ├── style.css
@@ -167,10 +167,6 @@ You can also open the project in Visual Studio Code and use the Live Server exte
 No additional packages or backend server are required for this basic portfolio website.
 
 ## Live Website
-
-Visit my portfolio:
-
-https://nadiabinteyousuf.github.io/C243447_PersonalPortfolio/
 
 ## GitHub Repository
 
