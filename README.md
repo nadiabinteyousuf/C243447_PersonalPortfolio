@@ -155,7 +155,7 @@ git clone https://github.com/nadiabinteyousuf/C243447_PersonalPortfolio.git
 ### Step 2 – Open the Project Folder
 
 ```bash
-cd C243447_PersonalPortfolio
+cd portfolio
 ```
 
 ### Step 3 – Run the Website
